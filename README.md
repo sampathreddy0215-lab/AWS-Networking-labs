@@ -4,3 +4,4 @@ AWS cloud networking labs covering VPC design, Transit Gateway, routing, hybrid 
 ## Labs Included
 
 - AWS Transit Gateway
+- AWS Direct Connect
