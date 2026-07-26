@@ -5,3 +5,13 @@ AWS cloud networking labs covering VPC design, Transit Gateway, routing, hybrid 
 
 - AWS Transit Gateway
 - AWS Direct Connect
+## Lab Validation Checklist
+
+- VPC Deployment
+- Route Table Verification
+- Security Group Validation
+- VPN Tunnel Validation
+- Transit Gateway Connectivity
+- EC2 Connectivity Testing
+- Failover Testing
+- Monitoring and Troubleshooting
