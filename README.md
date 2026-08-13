@@ -15,3 +15,11 @@ AWS cloud networking labs covering VPC design, Transit Gateway, routing, hybrid 
 - EC2 Connectivity Testing
 - Failover Testing
 - Monitoring and Troubleshooting
+
+## Network Troubleshooting Labs
+
+- VPC Flow Logs Troubleshooting
+- Security Group Validation
+- Network ACL Analysis
+- Route Table Troubleshooting
+- AWS Connectivity Validation
